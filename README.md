@@ -1,1 +1,1 @@
-# states of USA
+# States of USA
